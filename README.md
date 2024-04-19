@@ -1,5 +1,7 @@
 NOTE: This practice is being run on a windows machine.
 
+This is a CLI that could do a basic CRUD for a fish database with Postgres.
+
 See https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/
 for installation.
 
